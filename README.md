@@ -3,10 +3,6 @@
 <p align="center">
   <b>🚀 Student Developer | 🧠 Tech Explorer | 🎓 Grade 8</b><br>
   <i>"Simply, Your Own Site!"</i><br><br>
-  ![GitHub followers](https://img.shields.io/github/followers/baljit-webcoder?label=Followers&style=for-the-badge&logo=github)
-  ![GitHub repos](https://img.shields.io/github/repos/baljit-webcoder?label=Repos&style=for-the-badge&logo=github)
-  ![Profile Views](https://komarev.com/ghpvc/?username=baljit-webcoder&style=for-the-badge)
-  ![Most Starred Repo](https://img.shields.io/github/stars/baljit-webcoder/your-most-starred-repo-name?label=Most%20Starred%20Repo&style=for-the-badge&logo=github)
 </p>
 
 ---
